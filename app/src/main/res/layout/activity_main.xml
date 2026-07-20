@@ -14,7 +14,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            app:title="GenAI Chat"
+            app:title="@string/app_name"
             app:titleCentered="true"
             app:titleTextColor="#000000" />
 
